@@ -1,0 +1,46 @@
+.box{
+	min-height:400px;
+}
+
+.zoom {
+	min-height: 200px;
+}
+
+.tasbih{
+	min-height:250px;
+}
+
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
+
+.parallax {
+  position: absolute;
+}
+
+.mix_up{
+	margin-bottom: 200px;
+}
+
+
+.part{
+	margin-bottom: 400px;
+	background-color:black;
+    
+}
+
+
+
+/**
+ * Text 3
+ */
+#text3
+{
+    margin:           3.0em auto;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #d81c82;
+}
+
